@@ -71,6 +71,9 @@ python scripts/unbound.py > unbound.txt
 ## For browser extensions
 ### Adblock
 python scripts/adblock.py > adblock.txt
+
+python scripts/ublock-search.py > ublock_search.txt
+
 ### uBlacklist
 python scripts/ublacklist.py > ublacklist.txt
 
